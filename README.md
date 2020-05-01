@@ -1,1 +1,2 @@
 # Paratransit-survey-data
+The associated files are the survey results from 30 annonymous California transit agencies that operate paratransit. The data analysis and app can be found in the paper entitled: "pTNC: Accessible Mobile App Design Integrating Paratransit and TNC Services Supported by Empirical Research of Paratransit Operators in California" for The 22nd International ACM SIGACCESS Conference on Computers and Accessibility. 
